@@ -8,8 +8,10 @@ This is only a first iteration of this application - due to that fact not all op
  | Modern UI w/ material design
  | Animations
  | Possibility to see grades from all semesters
+ | Sorting the grades
  | Menu
  | Student's info
+ | Logging out
 ***
 #### Technologies used in this project:
 * Vue.js as a base front-end framework
